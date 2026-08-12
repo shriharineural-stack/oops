@@ -76,7 +76,7 @@ class Student extends Person {
             grade = 'F';
     }
 
-    // Display student
+    // Display student details
     void displayStudent() {
 
         System.out.println("\n====================================");
